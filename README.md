@@ -1,4 +1,4 @@
-# SUBEASE
+# Subtitles Loader Anywhere
 
 A chrome extension that allows you to add different subtitles to your favorite show (a movie or tv show), supports different platforms such as Netflix, YouTube, Hulu, Disney+ and others...  
 

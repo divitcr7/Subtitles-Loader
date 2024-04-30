@@ -10,7 +10,7 @@ Our goal is to allow subtitles to be used everywhere more easily, so that you ca
 ![Screenshot of the Search interface](/store/Images/640x400/search.png)  
 ![Screenshot of the Breaking Bad with subtitles](/store/Images/640x400/add_subtitle.png)
 
-
+Give it a star, i took a good amount of time to build it
 ## Features:
 -	Subtitles available for the majority of movies (thanks to OpenSubtitles).
 -	Auto synchronization is enabled by default, which will try to automatically synchronize the subtitles, it can be disabled at any time from the settings.
